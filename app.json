@@ -10,8 +10,8 @@
     "bot"
   ],
   "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://github.com/Jijinr/Frwdit-V2",
-  "repository": "https://github.com/Jijinr/Frwdit-V2",
+  "website": "https://github.com/raviverma86720/Frwdit-V2",
+  "repository": "https://github.com/raviverma86720/Frwdit-V2",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
@@ -38,7 +38,7 @@
       "value": "document"
     },
     "SESSION": {
-      "description": "Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1",
+      "description": "Pyrogram string Seccion - https://replit.com/@/PyroSessionString?v=1",
       "value": ""
     }
   },
